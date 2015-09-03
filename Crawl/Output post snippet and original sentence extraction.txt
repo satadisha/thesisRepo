@@ -1,0 +1,531 @@
+run:
+Exception caught
+Exception caught
+Exception caught
+Exception caught
+Exception caught
+100
+0. There are 549 calories in 1 burger (7.6 oz) of McDonald's Big Mac Burger. You'd need to walk 144 minutes to burn 549 calories. Visit CalorieKing to see calo
+--->
+1. We provide a nutrition analysis of our menu items to help you balance your .... Big Mac. 7.4 oz. (211 g)530 240. 27. 42. 10. 48. 1. 85. 28. 960. 40. 47. 16. 3. 13. 9.
+--->
+->We provide a nutrition analysis of our menu items to help you balance your
+Could not download file Calories in a Big Mac1.txt
+2. Jul 24, 2012 ... Chock-full of fat and loaded with calories, every one of these salads is worse for you than a ... A Big Mac has 550 calories and 29 grams of fat.
+--->
+->Jul 24 , 2012
+Could not download file Calories in a Big Mac2.txt
+3. Curious about how many calories are in Big Mac Cheeseburger? Get nutrition information and sign up for a free online diet program at CalorieCount.
+--->
+4. Curious about how many calories are in Big Mac? Get nutrition information and sign up for a free online diet program at CalorieCount.
+--->
+5. Sep 24, 2012 ... The text that tells you the name of an item — say, a Big Mac — is about double the size of that telling you the number of calories (in this ca
+--->
+->Sep 24 , 2012
+->The text that tells you the name of an item -- say , a Big Mac -- is about double the size of that telling you the number of calories (in this ca
+=>The text that tells you the name of an item -- say , a Big Mac -- is about double the size of that telling you the number of calories (in this case , 550) .
+6. Jul 17, 2013 ... These "salads" have have more fat, calories, and sodium than a fast-food ... For comparison's sake, a Big Mac has about 550 calories, 
+--->
+->Jul 17 , 2013
+=>Summer Shape Up Digital Editions DO N'T MISS Newsletters Save 84 % off Shape Magazine SUBSCRIBE Shop GNC Diet Tips | Jul 17 , 2013 12 Salads Worse Than a Big Mac Do n't be fooled by the s-word ; these `` salads '' have more fat , calories , and sodium than a fast-food burger By Shape Editors 1159 shared this 1159 shared this 1159 1 of 13 The Worst Salads for Your Body View All < > Start again ?
+->These `` salads '' have have more fat , calories , and sodium than a fast-food
+->For comparison 's sake , a Big Mac has about 550 calories ,
+=>For comparison 's sake , a Big Mac has about 550 calories , 10g saturated fat , and 1000mg sodium .
+7. Nutrition facts and Information for McDonald's sandwich: Big Mac®
+--->
+8. Nov 6, 2014 ... A Big Mac + large fries = 1,040 calories and 1,160 milligrams of sodium. ... Click on their nutrition facts to find those choices and to make m
+--->
+->Nov 6 , 2014
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+->A Big Mac + large fries = 1,040 calories and 1,160 milligrams of sodium .
+WARNING: Untokenizable: ? (U+D83C, decimal: 55356)
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: ? (U+D83C, decimal: 55356)
+=>Carolyn Kylstra BuzzFeed Staff A Big Mac + large fries = 1,040 calories and 1,160 milligrams of sodium .
+->Click on their nutrition facts to find those choices and to make m
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: ? (U+D83C, decimal: 55356)
+=>Click on their nutrition facts to find those choices and to make more informed orders .
+9. Nutritional summary of "Big Mac": This food contains a high amount of trans fat. Its 3R nutrient density rating is 0.6 (where anything over 1 is relatively good).
+--->
+10. Calorie counts and complete nutrition facts for McDonald's from the CalorieLab Nutrition Database. ... Big Mac, 7.8 oz, 25, 47, 30, 13.5, 560, MORE. Big N' Tas
+--->
+->Calorie counts and complete nutrition facts for McDonald 's from the CalorieLab Nutrition Database .
+->Big Mac , 7.8 oz , 25 , 47 , 30 , 13.5 , 560 , MORE .
+->Big N ' Tas
+=>McDonald 's Calorie Counter Food Serving Prot Carb Fat Pts Cals Menu Category : Sandwiches Hamburger 3.7 oz 13 33 9 6 260 MORE Cheeseburger 4.2 oz 15 35 12 7 310 MORE Double Cheeseburger 6.1 oz 25 37 23 11 460 MORE Quarter Pounder 6.1 oz 24 40 18 9.5 420 MORE Quarter Pounder (w / Cheese) 7 oz 29 43 25 12 510 MORE Double Quarter Pounder (w / Cheese) 9.9 oz 47 46 40 17.5 730 MORE Big Mac 7.8 oz 25 47 30 13.5 560 MORE Big N ' Tasty 8.2 oz 24 41 23 11 470 MORE Big N ' Tasty (w / Cheese) 8.7 oz 27 43 26 12 520 MORE Filet-O-Fish 5 oz 14 42 18 9.5 400 MORE McChicken 5.2 oz 15 41 16 9 370 MORE Premium Grilled Chicken Classic Sandwich 8 oz 32 52 9 9 420 MORE Premium Crispy Chicken Classic Sandwich 8.2 oz 27 63 16 11 500 MORE Premium Grilled Chicken Club Sandwich 9.4 oz 45 54 22 13.5 590 MORE Premium Crispy Chicken Club Sandwich 9.6 oz 40 64 29 15.5 680 MORE Premium Grilled Chicken Ranch BLT Sandwich 8.5 oz 39 54 13 10.5 490 MORE Premium Crispy Chicken Ranch BLT Sandwich 8.6 oz 34 64 20 13 580 MORE Premium Spicy Chicken Sandwich 8 oz 26 64 17 11.5 510 MORE Menu Category : French Fries Small French Fries 2.6 oz 2 30 13 5.5 250 MORE Medium French Fries 4 oz 4 47 20 8.5 380 MORE Large French Fries 6 oz 6 70 30 13.5 570 MORE Ketchup Packet 1 pkg 0 3 0 0.5 10 MORE Salt Packet 1 pkg 0 0 0 0 0 MORE Menu Category : Chicken McNuggets/Chicken Selects Premium Breast Strips Chicken McNuggets 4 piece (2.3 oz) 10 10 10 4.5 170 MORE Chicken McNuggets 6 piece (3.4 oz) 15 15 15 6.5 250 MORE Chicken McNuggets 10 piece (5.6 oz) 25 26 24 10.5 420 MORE Chicken McNuggets 20 piece (11.3 oz) 50 51 49 21 840 MORE Barbeque Sauce 1 pkg 0 11 0 1 45 MORE Honey 1 pkg 0 12 0 1 50 MORE Hot Mustard Sauce 1 pkg 1 9 2 1 50 MORE Sweet 'N Sour Sauce 1 pkg 0 11 0 1 50 MORE Chicken Selects Premium Breast Strips 3 piece (4.7 oz) 23 28 20 9.5 380 MORE Chicken Selects Premium Breast Strips 5 piece (7.8 oz) 39 46 33 15.5 630 MORE Chicken Selects Premium Breast Strips 10 piece (15.6 oz) 77 92 66 31 1,270 MORE Spicy Buffalo Sauce 1.5 oz 0 1 6 1.5 60 MORE Creamy Ranch Sauce 1.5 oz 0 3 21 6 200 MORE Tangy Honey Mustard Sauce 1.5 oz 1 13 2 1.5 70 MORE Southwestern Chipotle Barbeque Sauce 1.5 oz 0 16 0 1.5 70 MORE Menu Category : Salads Asian Salad (w / Grilled Chicken) 12.7 oz 31 23 10 6 290 MORE Asian Salad (w / Crispy Chicken) 12.9 oz 26 34 17 8.5 370 MORE Asian Salad (w/o Chicken) 8.6 oz 7 16 7 3 140 MORE Bacon Ranch Salad (w / Grilled Chicken) 11.2 oz 33 12 9 5.5 260 MORE Bacon Ranch Salad (w / Crispy Chicken) 11.4 oz 28 23 16 8 340 MORE Bacon Ranch Salad (w/o Chicken) 7.9 oz 9 10 7 3 140 MORE Caesar Salad (w / Grilled Chicken) 10.9 oz 30 12 6 4.5 220 MORE Caesar Salad (w / Crispy Chicken) 11 oz 25 22 13 6.5 300 MORE Caesar Salad (w/o Chicken) 7.5 oz 7 9 4 2 90 MORE Fruit & Walnut Salad 9.3 oz 5 44 13 6.5 310 MORE Side Salad 3.1 oz 1 4 0 0.5 20 MORE Butter Garlic Croutons 0.5 oz 2 10 1 1.5 60 MORE California Cobb Salad (w / Grilled Chicken) 11.7 oz 35 12 11 6 280 MORE California Cobb Salad (w / Crispy Chicken) 11.9 oz 30 22 18 8 360 MORE California Cobb Salad (w/o Chicken) 8.4 oz 11 9 9 3.5 160 MORE Menu Category : Salad Dressings Newman 's Own Cobb Dressing 59 ml (2 fl oz) 1 9 9 3.5 120 MORE Newman 's Own Creamy Caesar Dressing 59 ml (2 fl oz) 2 4 18 5.5 190 MORE Newman 's Own Low Fat Balsamic Vinaigrette 44 ml (1.5 fl oz) 0 4 3 1.5 40 MORE Newman 's Own Low Fat Family Recipe Italian Dressing 1.5 fl oz 1 8 2.5 1.5 60 MORE Newman 's Own Ranch Dressing 59 ml (2 fl oz) 1 9 15 5 170 MORE Newman 's Own Low Fat Sesame Ginger Dressing 1.5 fl oz 1 14 2.5 2 90 MORE Menu Category : Breakfast Egg McMuffin 4.8 oz 17 30 12 7 300 MORE Sausage McMuffin 4 oz 14 31 22 9.5 380 MORE Sausage McMuffin (w / Egg) 5.7 oz 20 31 27 11 450 MORE English Muffin 2 oz 5 27 4.5 3.5 170 MORE Bacon , Egg & Cheese Biscuit 5.1 oz 19 36 24 11 440 MORE Sausage Biscuit (w / Egg) 5.7 oz 18 36 31 12.5 500 MORE Sausage Biscuit 3.9 oz 10 34 26 10.5 410 MORE Biscuit 2.4 oz 4 31 11 6 240 MORE Bacon , Egg & Cheese McGriddles 5.9 oz 20 46 21 11 450 MORE Sausage , Egg & Cheese McGriddles 7 oz 21 47 32 14 560 MORE Sausage McGriddles 4.7 oz 11 44 22 10.5 420 MORE Big Breakfast 9.3 oz 27 53 46 18 730 MORE Deluxe Breakfast 15.2 oz 33 136 61 29 1,220 MORE Sausage Burrito 4 oz 13 26 16 7.5 300 MORE Hotcakes and Sausage 9.2 oz 15 104 33 18 770 MORE Hotcakes (Margarine 2 pats & Syrup) 7.6 oz 9 102 17 13.5 600 MORE Sausage Patty 1.5 oz 7 2 15 5 170 MORE Scrambled Eggs (2) 3.6 oz 15 5 12 5 190 MORE Hash Browns 1.9 oz 1 15 8 3.5 140 MORE Warm Cinnamon Roll 3.7 oz 8 57 18 9.5 420 MORE Deluxe Warm Cinnamon Roll 5.7 oz 9 86 24 13 590 MORE Grape Jam 0.5 oz 0 9 0 1 35 MORE Strawberry Preserves 0.5 oz 0 9 0 1 35 MORE Menu Category : Desserts/Shakes Fruit 'n Yogurt Parfait 5.3 oz 4 31 2 3.5 160 MORE Fruit 'n Yogurt Parfait (w/o Granola) 5 oz 4 25 2 3 130 MORE Apple Dippers (w / Low Fat Caramel Dip) 3.2 oz 0 24 0.5 2.5 100 MORE Apple Dippers 1 pkg 0 8 0 1 35 MORE Low Fat Caramel Dip 0.8 oz 0 15 0.5 1.5 70 MORE Vanilla Reduced Fat Ice Cream Cone 3.2 oz 4 24 3.5 3.5 150 MORE Kiddie Cone 1 oz 1 8 1 1 45 MORE Strawberry Sundae 6.3 oz 6 51 6 6.5 280 MORE Hot Caramel Sundae 6.4 oz 7 62 7 7.5 340 MORE Hot Fudge Sundae 6.3 oz 8 55 9 7.5 330 MORE Peanuts (for Sundaes) 0.3 oz 2 2 3.5 1 45 MORE McFlurry with M&M 'S Candies 12 fl oz cup (12.3 oz) 14 96 20 14 620 MORE McFlurry with OREO Cookies 12 fl oz cup (11.9 oz) 14 88 16 13 560 MORE Chocolate Triple Thick Shake 12 fl oz cup (333 ml) 10 76 10 9.5 440 MORE Chocolate Triple Thick Shake 16 fl oz cup (444 ml) 13 102 14 13 580 MORE Chocolate Triple Thick Shake 21 fl oz cup (583 ml) 18 134 18 17 770 MORE Chocolate Triple Thick Shake 32 fl oz cup (888 ml) 27 203 27 25.5 1,160 MORE Strawberry Triple Thick Shake 12 fl oz cup (333 ml) 10 73 10 9.5 420 MORE Strawberry Triple Thick Shake 16 fl oz cup (444 ml) 13 97 13 12.5 560 MORE Strawberry Triple Thick Shake 21 fl oz cup (583 ml) 17 128 18 16.5 740 MORE Strawberry Triple Thick Shake 32 fl oz cup (888 ml) 25 194 26 24.5 1,110 MORE Vanilla Triple Thick Shake 12 fl oz cup (333 ml) 9 72 10 9.5 420 MORE Vanilla Triple Thick Shake 16 fl oz cup (444 ml) 13 96 13 12.5 550 MORE Vanilla Triple Thick Shake 21 fl oz cup (583 ml) 17 128 18 16.5 740 MORE Vanilla Triple Thick Shake 32 fl oz cup (888 ml) 25 193 26 24.5 1,110 MORE Baked Apple Pie 2.7 oz 2 34 11 6 250 MORE McDonaldland Chocolate Chip Cookies 2 oz 3 39 11 6.5 270 MORE McDonaldland Cookies 2 oz 4 42 8 5.5 250 MORE Chocolate Chip Cookie 1 cookie 2 22 7 4 160 MORE Oatmeal Raisin Cookie 1 cookie 2 22 5 3.5 140 MORE Sugar Cookie 1 cookie 2 22 6 3.5 150 MORE Menu Category : Beverages 1 % Low Fat Milk Jug 1 carton (236 ml) 8 12 2.5 2.5 100 MORE 1 % Low Fat Chocolate Milk Jug 1 carton (236 ml) 9 26 3 3.5 170 MORE Minute Maid Apple Juice Box 200 ml (6.8 fl oz) 0 23 0 2 90 MORE Orange Juice (Small) 12 fl oz cup 2 33 0 3 140 MORE Orange Juice (Medium) 16 fl oz cup 3 42 0 4 180 MORE Orange Juice (Large) 21 fl oz cup 4 57 0 5 250 MORE Coca-Cola Classic (Child) 12 fl oz cup 0 29 0 2.5 110 MORE Coca-Cola Classic (Small) 16 fl oz cup 0 40 0 3 150 MORE Coca-Cola Classic (Medium) 21 fl oz cup 0 58 0 4.5 210 MORE Coca-Cola Classic (Large) 32 fl oz cup 0 86 0 6.5 310 MORE Diet Coke (Child) 12 fl oz cup 0 0 0 0 0 MORE Diet Coke (Small) 16 fl oz cup 0 0 0 0 0 MORE Diet Coke (Medium) 21 fl oz cup 0 0 0 0 0 MORE Diet Coke (Large) 32 fl oz cup 0 0 0 0 0 MORE Sprite (Child) 12 fl oz cup 0 28 0 2.5 110 MORE Sprite (Small) 16 fl oz cup 0 39 0 3 150 MORE Sprite (Medium) 21 fl oz cup 0 56 0 4.5 210 MORE Sprite (Large) 32 fl oz cup 0 83 0 6.5 310 MORE Hi-C Orange Lavaburst (Child) 12 fl oz cup 0 32 0 2.5 120 MORE Hi-C Orange Lavaburst (Small) 16 fl oz cup 0 44 0 3.5 160 MORE Hi-C Orange Lavaburst (Medium) 21 fl oz cup 0 64 0 5 240 MORE Hi-C Orange Lavaburst (Large) 32 fl oz cup 0 94 0 7 350 MORE POWERade Mountain Blast (Child) 12 fl oz cup 0 20 0 1.5 70 MORE POWERade Mountain Blast (Small) 16 fl oz cup 0 27 0 2 100 MORE POWERade Mountain Blast (Medium) 21 fl oz cup 0 39 0 3 150 MORE POWERade Mountain Blast (Large) 32 fl oz cup 0 58 0 4.5 220 MORE Iced Tea (Child) 12 fl oz cup 0 0 0 0 0 MORE Iced Tea (Small) 16 fl oz cup 0 0 0 0 0 MORE Iced Tea (Medium) 21 fl oz cup 0 0 0 0 0 MORE Iced Tea (Large) 32 fl oz cup 0 1 0 0 0 MORE Coffee (Small) 12 fl oz cup 0 0 0 0 0 MORE Coffee (Large) 16 fl oz cup 0 0 0 0 0 MORE Coffee Cream 11 ml (0.4 fl oz) 0 0 2 1 20 MORE Sugar Packet 1 pkg 0 4 0 0.5 15 MORE Copyright 2000-2015 CalorieLab , Inc. | About CalorieLab ® | By using CalorieLab you agree to our User Agreement | Privacy | 2360 Corporate Circle , Henderson , NV 89074
+11. Sep 12, 2012 ... Starting next week, consumers will know exactly how many calories they're getting with that Big Mac, fries and milk shake.
+--->
+->Sep 12 , 2012
+->Starting next week , consumers will know exactly how many calories they 're getting with that Big Mac , fries and milk shake .
+12. Calories in Bigmac based on the calories, fat, protein, carbs and other nutrition information submitted for Bigmac.
+--->
+13. Calories in Big Mac Meal based on the calories, fat, protein, carbs and other nutrition information submitted for Big Mac Meal.
+--->
+14. May 11, 2010 ... Send it back: Big Mac On its own it packs in 492 calories, 9g of saturated fat and 2g of salt. For a small extra cost you can add fries and a fi
+--->
+->May 11 , 2010
+->Send it back : Big Mac On its own it packs in 492 calories , 9g of saturated fat and 2g of salt .
+=>Send it back : Big Mac On its own it packs in 492 calories , 9g of saturated fat and 2g of salt .
+->For a small extra cost you can add fries and a fi
+=>For a small extra cost you can add fries and a fizzy drink or milkshake , but the cost is much higher in heart-damaging salt and fat-promoting sugar .
+15. Jul 21, 2015 ... Carbohydrates provide 164 calories, fat accounts for 260 calories and 104 calories come from protein. The calories in a Big Mac are 28 perc
+--->
+->Jul 21 , 2015
+=>Go Sign Out Dashboard Profile MyPlate My Friends My Inbox Settings LIVESTRONG.COM Food and Drink Diet and Nutrition Nutrition Information for Restaurants Big Mac Nutrition Information Big Mac Nutrition Information Last Updated : Jul 21 , 2015 | By Temesha Aldridge A young man eating a burger and fries .
+->Carbohydrates provide 164 calories , fat accounts for 260 calories and 104 calories come from protein .
+=>Carbohydrates provide 164 calories , fat accounts for 260 calories and 104 calories come from protein .
+->The calories in a Big Mac are 28 perc
+=>The calories in a Big Mac are 28 percent of your recommended daily value , or DV , based on a 2,000 calorie a day diet .
+16. Aug 16, 2013 ... Fast food tastes delicious, it's fast and it's relatively inexpensive. The down side is it wreaks havoc on your diet and gives you far more sod
+--->
+->Aug 16 , 2013
+=>Last Updated : Aug 16 , 2013 | By Susan Lundman The calories add up fast in a fast-food meal .
+->Fast food tastes delicious , it 's fast and it 's relatively inexpensive .
+=>com/Getty Images Fast food tastes delicious , it 's fast and it 's relatively inexpensive .
+->The down side is it wreaks havoc on your diet and gives you far more sod
+=>The down side is it wreaks havoc on your diet and gives you far more sodium than you need .
+17. There are 530 calories in a 1 burger serving of McDonald's Big Mac. Get full nutrition facts for other McDonald's products and all your other favorite brands.
+--->
+18. Chart showing how many calories in popular fast food products. ... Calories in 1 Big Mac (214g): 490.8kcal ... Calories in 1 Chicken Drumstick (95g): 161.5k
+--->
+->Chart showing how many calories in popular fast food products .
+->Calories in 1 Big Mac (214g) : 490.8 kcal
+=>Take Our Free Trial Big Mac , McDonald 's Calories in 100g of Big Mac Calories 229.0 kcal Carbohydrate 19g Protein 13g Fat 12.0 g Fibre 2g Calories in 1 Big Mac (214g) : 490.8 kcal Cheeseburger , Burger King Calories in 100g of cheeseburger Calories 260kcal Carbohydrate 25.0 g Protein 13g Fat 11.0 g Fibre 1.0 g Calories in 1 cheeseburger (123g) : 319.8 kcal Chicken Drumsticks , Original , Kentucky Fried Chicken Calories in 100g of chicken Calories 170.0 kcal Carbohydrate 9.1 g Protein 11.9 g Fat 10.0 g Fibre 1.4 g Calories in 1 Chicken Drumstick (95g) : 161.5 kcal Fries , Medium , KFC * Calories in 100g of fries Calories 231.5 kcal Carbohydrate 32.4 g Protein 3.1 g Fat 11.9 g Fibre 0.0 g Calories in 1 serving (100g) of fries : 231.5 kcal Fries , Regular , McDonalds Calories in 100g of fries Calories 289kcal Carbohydrate 37g Protein 3g Fat 14g Fibre 4g Calories in 1 medium serving (114g) of fries : 330kcal Hamburger , McDonald 's Calories in 100g of hamburger Calories 240kcal Carbohydrate 29g Protein 13g Fat 8g Fibre 2g Calories per hamburger : (104g) : 249.6 kcal Pizza , 12 '' Margherita , Pizza Express Calories in 100g of pizza Calories 220.0 kcal Carbohydrate 29.9 g Protein 9.8 g Fat 6.8 g Fibre 1.4 g Calories per half a pizza (135g) : 297kcal Popcorn Chicken , Kentucky Fried Chicken Calories in 100g of Popcorn Chicken Calories 251.0 kcal Carbohydrate 12.9 g Protein 16.8 g Fat 15.2 g Fibre 0.0 g Calories per serving of popcorn chicken (122g) : 306.6 kcal Quarter Pounder with Cheese , McDonalds Calories in 100g of burger Calories 252.0 kcal Carbohydrate 19.0 g Protein 16g Fat 13.0 g Fibre 2g Calories in a burger (194g) : 490kcal Calorie Counting for Weight Loss ?
+->Calories in 1 Chicken Drumstick (95g) : 161.5 k
+=>Take Our Free Trial Big Mac , McDonald 's Calories in 100g of Big Mac Calories 229.0 kcal Carbohydrate 19g Protein 13g Fat 12.0 g Fibre 2g Calories in 1 Big Mac (214g) : 490.8 kcal Cheeseburger , Burger King Calories in 100g of cheeseburger Calories 260kcal Carbohydrate 25.0 g Protein 13g Fat 11.0 g Fibre 1.0 g Calories in 1 cheeseburger (123g) : 319.8 kcal Chicken Drumsticks , Original , Kentucky Fried Chicken Calories in 100g of chicken Calories 170.0 kcal Carbohydrate 9.1 g Protein 11.9 g Fat 10.0 g Fibre 1.4 g Calories in 1 Chicken Drumstick (95g) : 161.5 kcal Fries , Medium , KFC * Calories in 100g of fries Calories 231.5 kcal Carbohydrate 32.4 g Protein 3.1 g Fat 11.9 g Fibre 0.0 g Calories in 1 serving (100g) of fries : 231.5 kcal Fries , Regular , McDonalds Calories in 100g of fries Calories 289kcal Carbohydrate 37g Protein 3g Fat 14g Fibre 4g Calories in 1 medium serving (114g) of fries : 330kcal Hamburger , McDonald 's Calories in 100g of hamburger Calories 240kcal Carbohydrate 29g Protein 13g Fat 8g Fibre 2g Calories per hamburger : (104g) : 249.6 kcal Pizza , 12 '' Margherita , Pizza Express Calories in 100g of pizza Calories 220.0 kcal Carbohydrate 29.9 g Protein 9.8 g Fat 6.8 g Fibre 1.4 g Calories per half a pizza (135g) : 297kcal Popcorn Chicken , Kentucky Fried Chicken Calories in 100g of Popcorn Chicken Calories 251.0 kcal Carbohydrate 12.9 g Protein 16.8 g Fat 15.2 g Fibre 0.0 g Calories per serving of popcorn chicken (122g) : 306.6 kcal Quarter Pounder with Cheese , McDonalds Calories in 100g of burger Calories 252.0 kcal Carbohydrate 19.0 g Protein 16g Fat 13.0 g Fibre 2g Calories in a burger (194g) : 490kcal Calorie Counting for Weight Loss ?
+19. Comprehensive nutrition resource for McDonald's Big Mac W/cheese. Learn about the number of calories and nutritional and diet information for McDonald's 
+--->
+20. The BBQ Smokehouse. Big Mac®. Quarter Pounder with Cheese. Hamburger. Cheeseburger. Double Cheeseburger. Like us on Facebook. Sign up to 
+--->
+21. Calories in Mcdonald's Australia Big Mac Burger. Find nutrition facts for Mcdonald's Australia Big Mac Burger and over 2000000 other foods
+--->
+22. Find nutrition facts for Mcdonald's Big Mac Meal With Fries And Coke With No Onions and over 2000000 other foods in MyFitnessPal.com's food database.
+--->
+23. Calories in Mcdonalds Chicken Bigmac. Find nutrition facts for Mcdonalds Chicken Bigmac and over 2000000 other foods in MyFitnessPal.com's food database.
+--->
+24. Mar 22, 2013 ... We discuss Big Mac nutrition information and discuss just how bad for you a typical meal is at the local burger joint.
+--->
+->Mar 22 , 2013
+->We discuss Big Mac nutrition information and discuss just how bad for you a typical meal is at the local burger joint .
+25. Feb 20, 2015 ... The Shamrock Shake is back, but if you want to enjoy the seasonal treat you might want to plan ahead and start cutting calories now. The sh
+--->
+->Feb 20 , 2015
+->The Shamrock Shake is back , but if you want to enjoy the seasonal treat you might want to plan ahead and start cutting calories now .
+=>Email Address Posted in : Food & Dining Posted : February 20 , 2015 McDonald 's Shamrock Shake Returns : Guess How Many Big Macs It Takes To Equal The Calories Of One Shake The Shamrock Shake is back , but if you want to enjoy the seasonal treat you might want to plan ahead and start cutting calories now .
+->The sh
+=>The shake has started to make its return to McDonald 's locations across the United States and Canada , a cause for joy among the fans of the minty shake .
+26. You'll find that a single hamburger contains A LOT of calories, and most of them ... Here are the calories you'll find in your Big Mac and other McD's burge
+--->
+->You 'll find that a single hamburger contains A LOT of calories , and most of them
+=>You 'll find that a single hamburger contains A LOT of calories , and most of them come from the bun .
+->Here are the calories you 'll find in your Big Mac and other McD 's burge
+=>Here are the calories you 'll find in your Big Mac and other McD 's burgers : Food item Calories Fat (grams) Carbohydrate (grams) Protein (grams) Cheese Burger (4oz-114g) 300 12 33 15 Double Cheese Burger (5,8 oz - 165g) 440 23 34 25 Big Mac (7,5oz-214g) 540 29 45 25 4 Chicken McNuggets (2,3 oz - 64g) 190 12 11 10 Hamburger (3,5oz-100g) 250 9 31 12 McChicken (5oz-143g) 360 16 40 14 Quarter pond with cheese (7oz-198g) 510 26 40 29 Filet-O-Fish (5oz-142g) 380 18 38 15 Big Breakfast - regular size (9,5oz-269g) 740 48 51 28 Large Fries (5,4oz-154g) 500 25 63 6 Hash Brown (2oz-56g) 150 80 15 1 Milkshake - Banana medium 425 11 72 9 As you can see , hamburgers , fries , and all of the other food you can buy at this fast food joint tend to be VERY high in calories .
+27. Jun 2, 2015 ... Pet owners are unwittingly giving their animals treats that contain the same level of calories as junk food like Big Macs and Dunkin Donuts.
+--->
+->Jun 2 , 2015
+->Pet owners are unwittingly giving their animals treats that contain the same level of calories as junk food like Big Macs and Dunkin Donuts .
+=>Former Clinton West Wing assistant Linda Tripp says Democratic contender is a liar who treats the public with contempt Clinton campaign responds to DailyMail.com private jet video by pledging to go ` carbon neutral ' -- but Hillary wo n't take questions about how she 'll get there Poll blow to Obama 's Iran deal as Kerry stumbles before Congress : Majority of Americans want lawmakers to block nuclear treaty accused of putting Israel at risk Camille Paglia lashes out at Bill Clinton 20 years after Monica Lewinsky scandal - saying he used the former intern who ` never got the perks of being a mistress ' and ` destroyed her life ' Jeb says in first Spanish-language interview that he was ` hurt ' by Trump 's ` vulgar ' Mexican ` rapists ' and ` killers ' comments Donald Trump crushes field in New Hampshire and DOUBLES support for Jeb Bush as decades-old ` rape ' allegation falls apart ' I think he would make an incredible president ' : Ivana downplays old sex assault allegations against her ex-husband as Donald Trump 's lawyer apologizes for saying you ca n't rape your spouse WANTED : American dentist who paid $ 55,000 to kill Africa 's most famous lion goes into hiding and says he ` did nothing wrong ' as Zimbabwe police demand to speak to him Chelsea Clinton travels to Haiti to visit projects financed by family foundation ` The 1950s called , they want their advice back ' : Glamour magazine under fire on Twitter over ` misogynistic ' list revealing 13 things to make a man fall in love with you PIERS MORGAN : I 'd love to go hunting one day with Dr Walter Palmer the killer dentist ... so I can stuff and mount him for MY office wall ` Charming ' British man who married US billionaire 's daughter tried to extort $ 2m from her family by posting nude pictures of her online Latin Kings gang member , 28 , is accused of ` stabbing to death ' 17-year-old transgender girl and then burying her in his backyard Fatal Virgin Galactic crash was caused by ` braking error ' : Co-pilot unlocked the craft 's feathering system too early , report finds ' I enjoyed the attention ' : ` Shawshank ' prison worker admits helping inmates escape in confession that reveals their secret kisses and thethe naked photos she gave them Adorable moment mom walks in to check on baby daughter and finds rescue dog asleep under the covers next to her The second life of a Nazi war criminal : German documentary reveals how ` butcher of Lyon ' Klaus Barbie became a fixer for drug lords when he went on the run in South America Motorola unveils ` the world 's fastest-charging smartphone ' and a revamped budget Moto G handset with a 13MP camera Previous Next Why pet treats are as fattening as a Big Mac or doughnut : Owners warned calories in products rival popular fast food items Direct Line Pet Insurance says calorie content is rarely shown on pet food When matched by weight some treats have 5 % more calories than Glazed Ring Dunkin Donut Others have around 53 % more calories than a McDonald 's Big Mac burger By Daily Mail Reporter Published : 18:59 EST , 2 June 2015 | Updated : 07:41 EST , 3 June 2015 402 shares 99 View comments Pet owners are unwittingly giving their animals treats that contain the same level of calories as junk food like Big Macs and Dunkin Donuts .
+28. Aren't their meals every bit as laden with fat and calories as, say, a Big Mac? The city says it didn't include non-chain restaurants in the new measure because
+--->
+29. Sep 5, 2011 ... A Big Mac and fries McDonald's will soon display calorie information in its restaurants, despite its own research suggesting it will have lit
+--->
+->Sep 5 , 2011
+->A Big Mac and fries McDonald 's will soon display calorie information in its restaurants , despite its own research suggesting it will have lit
+30. May 24, 2013 ... Apparently, fast-food frequenters have no idea how many calories they're ordering up at the counter. Researchers conducted a la
+--->
+->May 24 , 2013
+=>More Than You Think By Alexandra Sifferlin @acsifferlinMay 24 , 20130 Share Read Later Send to Kindle Getty Images Related Nutrition at Fast Food Restaurants Still Leaves Much to be Desired Fast Food Linked to Asthma and Allergies in Kids What 's in Your Whopper ?
+->Apparently , fast-food frequenters have no idea how many calories they 're ordering up at the counter .
+=>Salt in Fast Food Varies Greatly Between Countries Calories In Fast Food Meals Underestimated By Consumers , Study Reveals Huffington Post Diners badly underestimate calories in fast-food meals USA Today Teens most guilty of underestimating calories in fast food , study reveals CBS News Email Print Share Facebook Twitter Tumblr LinkedIn StumbleUpon Reddit Digg Mixx Delicious Google + Comment Follow @TIMEHealth Apparently , fast-food frequenters have no idea how many calories they 're ordering up at the counter .
+->Researchers conducted a la
+=>Researchers conducted a large cross-sectional study of 1,877 adults and 330 school-age kids who regularly visited fast-food chains including McDonald 's , Burger King , Wendy 's , KFC , Subway and Dunkin’ Donuts .
+31. Aug 9, 2012 ... Many of the salads that appear on the menus at fast food chains actually have more calories and saturated fats than the "dreaded" Big Mac.
+--->
+->Aug 9 , 2012
+->Many of the salads that appear on the menus at fast food chains actually have more calories and saturated fats than the `` dreaded '' Big Mac .
+=>Many of the salads that appear on the menus at fast food chains actually have more calories and saturated fats than the `` dreaded '' Big Mac .
+32. Jul 3, 2014 ... At 3.75 inches in diameter and 2.75 inches tall, the 550-calorie Big Mac surely represented one hell of a giant sandwich when it was introdu
+--->
+->Jul 3 , 2014
+->At 3.75 inches in diameter and 2.75 inches tall , the 550-calorie Big Mac surely represented one hell of a giant sandwich when it was introdu
+=>At 3.75 inches in diameter and 2.75 inches tall , the 550-calorie Big Mac surely represented one hell of a giant sandwich when it was introduced in suburban Pittsburgh in 1967 , but in these fatter times , it appears almost dainty .
+33. Sep 12, 2012 ... McDonald's will list the calories on its menu items starting Monday. Federal healthcare reforms will require calorie counts on menus start
+--->
+->Sep 12 , 2012
+->McDonald 's will list the calories on its menu items starting Monday .
+=>Rarely seen beaked whale washes ashore in Massachusetts McDonald 's will list the calories on its menu items starting Monday .
+->Federal healthcare reforms will require calorie counts on menus start
+=>Federal healthcare reforms will require calorie counts on menus starting next year .
+34. Apr 15, 2015 ... And by less healthy, we mean it has more calories, lots more sodium, and more saturated fat than a McDonald's Big Mac. What?! How's t
+--->
+->Apr 15 , 2015
+->And by less healthy , we mean it has more calories , lots more sodium , and more saturated fat than a McDonald 's Big Mac .
+=>And by less healthy , we mean it has more calories , lots more sodium , and more saturated fat than a McDonald 's Big Mac .
+->What ?!
+=>What ?!
+->How 's t
+=>How 's that possible ?
+35. Jun 15, 2011 ... Sure, I knew they were unhealthy (especially when it comes to the Big Mac's calories, but I always figured they were no worse than any ot
+--->
+->Jun 15 , 2011
+->Sure , I knew they were unhealthy (especially when it comes to the Big Mac 's calories , but I always figured they were no worse than any ot
+=>Sure , I knew they were unhealthy (especially when it comes to the Big Mac 's calories , but I always figured they were no worse than any other burger .
+36. Jun 16, 2015 ... The ever-helpful Google is introducing a new feature, aiming to induce or prevent the guilt trip associated with a visit to your favorite fast f
+--->
+->Jun 16 , 2015
+->The ever-helpful Google is introducing a new feature , aiming to induce or prevent the guilt trip associated with a visit to your favorite fast f
+=>Just ask Google Now Posted : 16 Jun 2015 , 09:09 , by Daniel P. Tags : Android-Android + The ever-helpful Google is introducing a new feature , aiming to induce or prevent the guilt trip associated with a visit to your favorite fast food establishment .
+37. Jun 15, 2010 ... The Big Mac has 30 grams of fat, 10 of which are saturated (and 1.5 of which are trans-fat). • The burrito has ... Calories: 310 to 260. Total fat:
+--->
+->Jun 15 , 2010
+=>James McWilliams Jun 15 , 2010 Left to right : bee-side (s) / flickr ; yummiec00kies/flickr Here 's a nutritional comparison that might give you pause : a Chipotle burrito versus a Big Mac .
+->The Big Mac has 30 grams of fat , 10 of which are saturated (and 1.5 of which are trans-fat) .
+=>The Big Mac has 30 grams of fat , 10 of which are saturated (and 1.5 of which are trans-fat) .
+->• The burrito has
+=>Juxtapose them and things pan out thusly : • The burrito has 31 grams of fat , 11 grams of which are saturated .
+->Calories : 310 to 260 .
+=>Calories : 310 to 260 .
+->Total fat :
+=>Total fat : 10 grams to 9 grams .
+38. Nutritionists in Great Britain helpfully computed just how far you have to walk to shake off the 1,411 calories from that Big Mac lunch: 9.5 miles. London's 
+--->
+39. The Big Mac, the chain's signature sandwich, packs a walloping 540 calories and 29 grams of fat—but it is hardly the most unhealthful item on the menu.
+--->
+40. Feb 16, 2013 - 30 sec - Uploaded by How Many Calories How Many Calories In A Bigmac. How Many Calories ... How Many Calories And Meals Per 
+--->
+->Feb 16 , 2013 - 30 sec - Uploaded by How Many Calories How Many Calories In A Bigmac .
+->How Many Calories
+=>How Many Calories In A Bigmac - YouTubeHow Many Calories In A Bigmac - YouTube Skip navigation Upload Sign in Search Loading ... Close Yeah , keep it Undo Close This video is unavailable .
+->How Many Calories And Meals Per
+=>by Hallyu Back 98,994 views 12:08 How Many Calories And Meals Per Day Should I Eat ?
+41. May 29, 2013 ... Most people, when asked, underestimate the calorie count of a big mac ... Did you know that with every bite of a Big Mac, you are chewing o
+--->
+->May 29 , 2013
+=>MUCH More Than You Think | Fooducate Home Discover Top Breakfast Cereals Top Snack Bars Top Yogurts Top Cookies Browse All Products Our Apps Android : Free iPhone : Free Daily Tips In The News Nutrition Label Analysis Food Safety Food Thoughts Fooducate News Organic , Local & Sustainable Healthy Recipes Kids Nutrition Allergies and Gluten Free Diabetes and Low Carb Nutrition 101 About Us Our Story Product Grading Explained Daily Tip Archive Contests & Giveaways Useful Resources Contact Us Fooducate Search Post navigation ← Previous Next → Posted on May 29 , 2013 by Hemi Weingarten What 's in That Big Mac ?
+->Most people , when asked , underestimate the calorie count of a big mac
+=>Most people , when asked , underestimate the calorie count of a big mac combo meal by up to 20 % .
+->Did you know that with every bite of a Big Mac , you are chewing o
+=>Did you know that with every bite of a Big Mac , you are chewing on a highly processed formulation of : 100 % pure USDA inspected beef , no fillers , no extenders , Prepared with grill seasoning (salt , black pepper) , Enriched flour (bleached wheat flour , malted barley flour , niacin , reduced iron , thiamin mononitrate , riboflavin , folic acid) , water , high fructose corn syrup and/or sugar , soybean oil and/or canola oil , contains 2 % or less of the following : salt , calcium sulfate , calcium carbonate , wheat gluten , ammonium sulfate , ammonium chloride , dough conditioners (may contain one or more of the following : sodium stearoyl lactylate , datem , ascorbic acid , azodicarbonamide , mono - and diglycerides , ethoxylated monoglycerides , monocalcium phosphate , enzymes , guar gum , calcium peroxide) , calcium propionate and/or sodium propionate (preservatives) , soy lecithin , sesame seed , Milk , water , milkfat , cheese culture , sodium citrate , salt , citric acid , sorbic acid (preservative) , sodium phosphate , color added , lactic acid , acetic acid , enzymes , soy lecithin (added for slice separation) , Soybean oil , pickle relish [diced pickles , high fructose corn syrup , sugar , vinegar , corn syrup , salt , calcium chloride , xanthan gum , potassium sorbate (preservative) , spice extractives , polysorbate 80] , distilled vinegar , water , egg yolks , high fructose corn syrup , onion powder , mustard seed , salt , spices , propylene glycol alginate , sodium benzoate (preservative) , mustard bran , sugar , garlic powder , vegetable protein (hydrolyzed corn , soy and wheat) , caramel color , extractives of paprika , soy lecithin , turmeric (color) , calcium disodium EDTA (protect flavor) , lettuce , Cucumbers , water , distilled vinegar , salt , calcium chloride , alum , potassium sorbate (preservative) , natural flavors (plant source) , polysorbate 80 , extractives of turmeric (color) , Chopped onions , ... That 's over 80 ingredients , some of which we 'd like to highlight : Azodicarbonamide is a popular dough conditioner .
+42. McDonald's Big Mac Nutrition Facts. Calories. Fat. Saturated Fat. Trans Fat. Cholesterol. Sodium. Carbs.
+--->
+43. Long Island Iced Tea has the same number of calories as a McDonald's Big Mac, Yeah, a Big Mac. So go ahead, belly up to the bar and start putting down th
+--->
+44. McDonald's Special Sauce Big Mac Sauce. By Todd Wilbur. Recipe Type: Sauce. Calories: 105. Cook Time: 10 minutes. Recipe Rating: 4.8 (62 revie
+--->
+45. Big Mac and Cheese - side from Smokey Bones. Nutrition Facts. Big Mac and Cheese - side. Serving Size: portion. Amount Per Serving. Calories from Fat 230.
+--->
+46. The Big Mac is a hamburger sold by McDonald's, an international fast food .... regular hamburger produced by the chain, and has over 1000 calories alone. B
+--->
+->The Big Mac is a hamburger sold by McDonald 's , an international fast food
+->regular hamburger produced by the chain , and has over 1000 calories alone .
+47. May 18, 2015 ... The group defines “worse” in terms of saturated fat, cholesterol, sodium, and calories, of which a Big Mac has 550, according to PCRM.
+--->
+->May 18 , 2015
+=>Why a Big Mac Is Healthier Than You Think | The Fiscal TimesWhy a Big Mac Is Healthier Than You Think | The Fiscal Times Skip to main content Why a Big Mac Is Healthier Than You Think Search form Search Opinion Policy + Politics Big Decisions America at War Government Shutdown Government Waste Debt Ceiling Defense Obamacare Elections 2016 Elections 2014 Elections People Business + Economy Sectors + Companies US Economy Global Economy Life + Money Learning Economics Career Economics Personal Economics Retirement Photos Reboot America View published (active tab) Life + Money Share Why a Big Mac Is Healthier Than You Think Junko Kimura/Getty Images By Olga Khazan , The Business Insider May 18 , 2015 MOST POPULAR Photo of the Day Let 's be honest for a second : Salad is usually not the most delicious thing on a menu .
+->The group defines `` worse '' in terms of saturated fat , cholesterol , sodium , and calories , of which a Big Mac has 550 , according to PCRM .
+=>The group defines `` worse '' in terms of saturated fat , cholesterol , sodium , and calories , of which a Big Mac has 550 , according to PCRM .
+48. May 10, 2013 ... But there are plenty of calorie-laden options on its menu — and that's what ... At 550 calories, McDonald's Big Mac looks positively lightwei
+--->
+->May 10 , 2013
+=>But there are plenty of calorie-laden options on its menu -- and that 's what many people order , judging from the results of a new UCLA study BY Tracy Miller NEW YORK DAILY NEWS Published : Friday , May 10 , 2013 , 12:15 PM Updated : Friday , May 10 , 2013 , 5:53 PM A A A AJ Mast/AP Images for Subway Celebrities like former football champ and current ` Live ' host Michael Strahan (c.) and weight loss spokesman Jared Fogle (r.) have helped promote Subway 's `` Eat Fresh '' message , but many of its sandwiches have higher calorie counts than rival chain McDonald 's .
+->But there are plenty of calorie-laden options on its menu -- and that 's what
+=>But there are plenty of calorie-laden options on its menu -- and that 's what many people order , judging from the results of a new UCLA study BY Tracy Miller NEW YORK DAILY NEWS Published : Friday , May 10 , 2013 , 12:15 PM Updated : Friday , May 10 , 2013 , 5:53 PM A A A AJ Mast/AP Images for Subway Celebrities like former football champ and current ` Live ' host Michael Strahan (c.) and weight loss spokesman Jared Fogle (r.) have helped promote Subway 's `` Eat Fresh '' message , but many of its sandwiches have higher calorie counts than rival chain McDonald 's .
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+->At 550 calories , McDonald 's Big Mac looks positively lightwei
+WARNING: Untokenizable:  (U+84, decimal: 132)
+=>Jason Alden/Bloomberg via Getty Images At 550 calories , McDonald 's Big Mac looks positively lightweight compared to Subway 's heftiest menu items , like the thousand-calorie footlong Big Philly Cheesesteak .
+49. Feb 19, 2010 ... In my defense, it's not as if I have a daily Big Mac habit. ... That's significantly better than the 540 calories of the Big Mac (210 of which c
+--->
+->Feb 19 , 2010
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable:  (U+84, decimal: 132)
+=>The Mac Snack Wrap , Big Mac in a Tortilla Feb 19 , 2010 10:30 AM John M. Edwards Fast Food Columnist , Soda Columnist Editor 's note : Please welcome longtime Serious Eats reader and occasional fast food fan John M. Edwards -- no known relation to the recent Enquirer star .
+->In my defense , it 's not as if I have a daily Big Mac habit .
+=>In my defense , it 's not as if I have a daily Big Mac habit .
+->That 's significantly better than the 540 calories of the Big Mac (210 of which c
+=>That 's significantly better than the 540 calories of the Big Mac (210 of which come from the bun) , at less than half the price .
+50. Jun 18, 2015 ... If you thought you were being healthy with that salad then think again! We reveal the 50 foods that have more calories than a Big Mac.
+--->
+->Jun 18 , 2015
+->If you thought you were being healthy with that salad then think again !
+->We reveal the 50 foods that have more calories than a Big Mac .
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable:  (U+84, decimal: 132)
+51. Apr 16, 2008 ... It looks like residents of New York City will no longer be able to delude themselves about the potential damage a Big Mac will do to th
+--->
+->Apr 16 , 2008
+->It looks like residents of New York City will no longer be able to delude themselves about the potential damage a Big Mac will do to th
+=>NYC Residents Soon To Know -- By Stephanie Mencimer | Wed Apr. 16 , 2008 6:51 PM EDT Tweet Email It looks like residents of New York City will no longer be able to delude themselves about the potential damage a Big Mac will do to their waistlines .
+52. Nov 5, 2013 ... Miami-based Burger King is reviving its "Big King" sandwich, which pays homage to rival McDonald's ... The Big Mac is listed at 550 calories.
+--->
+->Nov 5 , 2013
+->Miami-based Burger King is reviving its `` Big King '' sandwich , which pays homage to rival McDonald 's
+=>Burger King to bring back Big Mac copycat - NBC NewsBurger King to bring back Big Mac copycat - NBC News Watch Live : James Holmes Trial Penalty Phase | Watch Live : Police Update on Sandra Bland Case Get Alerts NBC News Home Top Videos More Ongoing : New York Prison Escape ISIS Terror Search Search Primary Navigation U.S. World Local Politics Health Tech Science Pop Culture Business Investigations Sports More Nightly News Today Meet the Press Dateline Secondary Navigation Sections U.S. World Local Politics Investigations Health Tech Science Pop Culture Lifestyle Business Sports Latino Asian America NBCBLK Top Ongoing New York Prison Escape ISIS Terror TV Nightly News Meet The Press Dateline Today Featured The Freshman Year Experience Long Story Short 101 Show Me Flashback 30 Seconds to Know Debunker Multimedia Video Photo More From NBC Sports CNBC MSNBC.com NBC.com Breakingnews.com NBC Learn Re/Code Peacock Productions Next Steps for Vets Parent Toolkit NBC News works best with JavaScript turned on Feedback advertisement advertisement Consumer Business Nov 5 2013 , 10:00 am ET Burger King to bring back Big Mac copycat by Candice Choi Share Share Tweet Share Email Print Comment advertisement Miami-based Burger King is reviving its `` Big King '' sandwich , which pays homage to rival McDonald 's Big Mac .
+->The Big Mac is listed at 550 calories .
+=>The Big Mac is listed at 550 calories .
+53. Nov 5, 2013 ... On the left is the Big King, which is basically identical in terms of ingredients and nutrition to McDonald's classic Big Mac on the right.
+--->
+->Nov 5 , 2013
+->On the left is the Big King , which is basically identical in terms of ingredients and nutrition to McDonald 's classic Big Mac on the right .
+54. Food, Calories, Fat. McDonald's Big Mac, 563, 33 grams. Medium-sized McDonald's French fries, 384, 20. Medium-sized McDonald's vanilla shake, 733, 21.
+--->
+55. Jun 30, 2015 ... From deep-fried Snickers to deep-fried Oreos, there are no shortage of fried food items that don't quite make much sense. A deep-fried Big M
+--->
+->Jun 30 , 2015
+=>Deep fried Big Mac is an amazingly tasty and unhealthy food creation | BGRDeep fried Big Mac is an amazingly tasty and unhealthy food creation | BGR Home Topics Deals Reviews Podcast Apple iPhone 6 Free Apps Tip Us Search 3D Accessories Breaking Business Cars Celebrities eBooks Events Exclusive Featured Gaming Hardware Entertainment Humor Internet Interview Lifestyle Opinions Retail Security Services Tablets TV Previous How To Stop Apple From Automatically Charging You When Your Free Apple Music Trial Ends Previous Next Windows 10 : You Can Finally Try Out Microsoft 's Exciting New Edge Browser Next Deep Fried Big Mac is 1,500 Calories of Regret and Deliciousness By Yoni Heisler on Jun 30 , 2015 at 2:29 PM Email @edibleapple Lifestyle Share This Story Tweet Like Share Share Submit From deep-fried Snickers to deep-fried Oreos , there are no shortage of fried food items that do n't quite make much sense .
+->From deep-fried Snickers to deep-fried Oreos , there are no shortage of fried food items that do n't quite make much sense .
+=>Deep fried Big Mac is an amazingly tasty and unhealthy food creation | BGRDeep fried Big Mac is an amazingly tasty and unhealthy food creation | BGR Home Topics Deals Reviews Podcast Apple iPhone 6 Free Apps Tip Us Search 3D Accessories Breaking Business Cars Celebrities eBooks Events Exclusive Featured Gaming Hardware Entertainment Humor Internet Interview Lifestyle Opinions Retail Security Services Tablets TV Previous How To Stop Apple From Automatically Charging You When Your Free Apple Music Trial Ends Previous Next Windows 10 : You Can Finally Try Out Microsoft 's Exciting New Edge Browser Next Deep Fried Big Mac is 1,500 Calories of Regret and Deliciousness By Yoni Heisler on Jun 30 , 2015 at 2:29 PM Email @edibleapple Lifestyle Share This Story Tweet Like Share Share Submit From deep-fried Snickers to deep-fried Oreos , there are no shortage of fried food items that do n't quite make much sense .
+->A deep-fried Big M
+=>A deep-fried Big Mac , though ?
+56. The Big Mac is the premier sandwich sold in it's millions daily by fast food giant McDonald's, all over the world. But have you ever wondered about the Big 
+--->
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable:  (U+9D, decimal: 157)
+57. Apr 27, 2013 ... Turn your Big Mac into a combo, with a large French fries (500 calories) and a 32 -ounce fountain drink (280 calories) and you'll h
+--->
+->Apr 27 , 2013
+->Turn your Big Mac into a combo , with a large French fries (500 calories) and a 32 - ounce fountain drink (280 calories) and you 'll h
+58. Sep 21, 2012 ... McDonald's calories are now posted on the menu. That Big Mac is big, but the felony offender is the Big Breakfast with Hotcakes at 1
+--->
+->Sep 21 , 2012
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+->McDonald 's calories are now posted on the menu .
+WARNING: Untokenizable:  (U+9D, decimal: 157)
+->That Big Mac is big , but the felony offender is the Big Breakfast with Hotcakes at 1
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable:  (U+9D, decimal: 157)
+59. May 21, 2011 ... McDonald's says there are 540 calories in a Big Mac, which is more than a quarter of the calories a person on a 2,000-calorie diet wo
+--->
+->May 21 , 2011
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+->McDonald 's says there are 540 calories in a Big Mac , which is more than a quarter of the calories a person on a 2,000-calorie diet wo
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+=>McDonald 's says there are 540 calories in a Big Mac , which is more than a quarter of the calories a person on a 2,000-calorie diet would consume .
+60. Jul 28, 2012 ... OUR Big Mac index is back. Normally a beefy bundle of exchange rate fun, this year it is marking a sombre anniversary: five years since glo
+--->
+->Jul 28 , 2012
+->OUR Big Mac index is back .
+=>Economics All Economics Economics A-Z Markets & data Indicators Science & technology All Science & technology Technology Quarterly Culture All Culture More Intelligent Life Style guide The Economist Quiz Blogs Latest updates Buttonwood 's notebook Democracy in America Erasmus Free exchange Game theory Graphic detail Gulliver Prospero The Economist explains Debate Economist debates Letters to the editor Multimedia Economist Films Economist Radio Multimedia library The Economist in audio Print edition Current issue Previous issues Special reports Politics this week Business this week Leaders KAL 's cartoon Obituaries The Big Mac index Calories and currencies What burgernomics says about five years of turmoil Jul 28th 2012 | From the print edition Add this article to your reading list by clicking this button Tweet OUR Big Mac index is back .
+->Normally a beefy bundle of exchange rate fun , this year it is marking a sombre anniversary : five years since glo
+=>Normally a beefy bundle of exchange rate fun , this year it is marking a sombre anniversary : five years since global money-markets seized up in the summer of 2007 .
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+61. May 28, 2015 ... ... causal links to obesity. You would never eat a 530-calorie Big Mac before a meal—so why would you eat 530 calories' worth of anything else?
+--->
+->May 28 , 2015
+=>5 Supposedly Healthy Snacks With More Calories Than a Big Mac - Yahoo News5 Supposedly Healthy Snacks With More Calories Than a Big Mac - Yahoo News ⌂ Home Mail Search News Sports Finance Weather Games Answers Screen Flickr Mobile More ⋁ Politics Celebrity Movies Music TV Groups Health Style Beauty Food Parenting Makers Tech Shopping Travel Autos Homes Try Yahoo News on Firefox '' Skip to Navigation Skip to Main content Skip to Right rail Sign In ✉ Mail ⚙ Help Account Info Help Suggestions Follow Yahoo News on Facebook on Twitter on Tumblr on Google + on Flickr News Home U.S. World Politics Tech Science Health Odd News Local Dear Abby Comics ABC News Yahoo Originals Photos Recommended Games More games '' 5 Supposedly Healthy Snacks With More Calories Than a Big Mac By Josh Scherer | Takepart.com May 28 , 2015 7:51 PM TakePart.com Content preferences Done .
+->... causal links to obesity .
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+->You would never eat a 530-calorie Big Mac before a meal -- so why would you eat 530 calories ' worth of anything else ?
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+=>You would never eat a 530-calorie Big Mac before a meal -- so why would you eat 530 calories ' worth of anything else ?
+62. ... Big Mac®. Our irresistible and classic Big Mac® with two 100% Aussie beef patties, crisp iceberg lettuce, signature sauce, melting cheese, onions and pickles.
+--->
+63. Jun 25, 2015 ... Intrepid blogger Peep My Eats decided to show everyone that it is indeed possible to make a McDonald's Big Mac even more unhealthy.
+--->
+->Jun 25 , 2015
+=>Someone Decided the World Needed a Deep-Fried Big Mac on a Stick - EaterSomeone Decided the World Needed a Deep-Fried Big Mac on a Stick - Eater Log In Sign Up Eater Home Drinks Forums Reviews Video Longform Cities Follow Us : Leaderboard (: leaderboard , : tablet_leaderboard , : mobile_leaderboard) Eater IDK Novelty Foods Someone Decided the World Needed a Deep-Fried Big Mac on a Stick by Khushbu Shah Jun 25 , 2015 , 2:47 p @KhushAndOJ Tweet Share Share Tweet Share zigazou76/Flickr Big Mac , pre-deep fryer .
+->Intrepid blogger Peep My Eats decided to show everyone that it is indeed possible to make a McDonald 's Big Mac even more unhealthy .
+=>Intrepid blogger Peep My Eats decided to show everyone that it is indeed possible to make a McDonald 's Big Mac even more unhealthy .
+64. Jun 27, 2015 ... According to Time Magazine, the Big Mac deep-fried idea came from ... Big Mac has stated that a regular Big Mac is already 563 calories in 
+--->
+->Jun 27 , 2015
+=>[PHOTOS+VIDEO] Jun 27 , 2015 12:44 PM EDT | By Victoria Guerra TAG : Big Mac Deep-Fried , McDonald 's Big Mac , Big Mac , Deep-Fried burger , Deep-Fried Big Mac , Mcdonalds print (Photo : Getty Images) It seems like the pinnacle of junk food has just been reached , as a fast food junkie created a Big Mac deep-fried for his ultimate fulfillment of a craving , and the video of this new menu item has gone viral , as the Internet seems unsure whether it 's absolutely delicious or plainly disgusting .
+->According to Time Magazine , the Big Mac deep-fried idea came from
+=>According to Time Magazine , the Big Mac deep-fried idea came from the food blogger chef at Peep My Eats , as he decided to coat his staple McDonald 's burger in Panko breadcrumbs , deep fry it , put it on a stick and then adding some Big Mac sauce on the top .
+->Big Mac has stated that a regular Big Mac is already 563 calories in
+=>Yup , a Deep Fried Big Mac With Extra Mac Sauce on Top @mcdonalds Holla At Me #PeepMyEats #BellyBoner #TryNotToEatYourPhone Una foto publicada por Peep My Sneaks (@peepmysneaks) el 23 de Jun de 2015 a la (s) 4:45 PDT According to The Mirror , though , the Big Mac deep-fried is literally not for the faints of heart : Big Mac has stated that a regular Big Mac is already 563 calories in its regular version , and deep-frying it would put an estimated 1,000 extra calories on it - in all , more than 1,500 calories , which is about 500 less than the recommended daily calorie intake in women .
+65. May 1, 2013 ... McDonald's Big Mac – to burn off the 550 calories in the burger itself, not including fries or soda, a 155-pound woman would have to sp
+--->
+->May 1 , 2013
+->McDonald 's Big Mac -- to burn off the 550 calories in the burger itself , not including fries or soda , a 155-pound woman would have to sp
+=>McDonald 's Big Mac -- to burn off the 550 calories in the burger itself , not including fries or soda , a 155-pound woman would have to spend about an hour cycling at a moderate pace of about 13 miles per hour .
+66. Apr 17, 2015 ... Supermarket salads, seen as a healthy lunchtime alternative, can be packed with more fat and calories than a Big Mac, a consumer watch
+--->
+->Apr 17 , 2015
+->Supermarket salads , seen as a healthy lunchtime alternative , can be packed with more fat and calories than a Big Mac , a consumer watch
+=>has discovered healthy lunchtime snacks are packed with sugar Share Share Tweet +1 Pinterest Fat chance : Big Mac has less calories than some salad pots Supermarket salads , seen as a healthy lunchtime alternative , can be packed with more fat and calories than a Big Mac , a consumer watchdog warns .
+67. McDonald's® Big Mac · 79 grams of Big Mac = 200 Calories. Additional photos: ... You can burn 200 Calories of Big Mac wi
+--->
+->McDonald 's ® Big Mac · 79 grams of Big Mac = 200 Calories .
+->Additional photos :
+=>Yes Cancel Add this food to my pantry McDonald 's ® Big Mac 79 grams of Big Mac = 200 Calories Additional photos : Related Categories Beef Low Calorie Brown McDonald 's Breads Veggies Circle Related Foods Wienerschnitzel ® All Beef Chili Cheese Dog Chili Cheese Dog 81 g = 200 Cal Taco Bell ® 7-Layer Burrito 7-Layer Burrito 116 g = 200 Cal Burger King ® Double Whopper ® Hamburger 86 g = 200 Cal Taco Bell ® Beef Grilled Stuft Burrito Taco Bell ® Beef Burrito 96 g = 200 Cal Oranges with Peel Oranges with Peel 317 g = 200 Cal Calories Burned You can burn 200 Calories of Big Mac with : 38 minutes of Bicycling 22 minutes of Cross Country Skiing 18 minutes of Running 30 minutes of Swimming 50 minutes of Walking More Activities Comments This is a little less than half of McDonald 's ® Big Mac .
+->You can burn 200 Calories of Big Mac wi
+=>Yes Cancel Add this food to my pantry McDonald 's ® Big Mac 79 grams of Big Mac = 200 Calories Additional photos : Related Categories Beef Low Calorie Brown McDonald 's Breads Veggies Circle Related Foods Wienerschnitzel ® All Beef Chili Cheese Dog Chili Cheese Dog 81 g = 200 Cal Taco Bell ® 7-Layer Burrito 7-Layer Burrito 116 g = 200 Cal Burger King ® Double Whopper ® Hamburger 86 g = 200 Cal Taco Bell ® Beef Grilled Stuft Burrito Taco Bell ® Beef Burrito 96 g = 200 Cal Oranges with Peel Oranges with Peel 317 g = 200 Cal Calories Burned You can burn 200 Calories of Big Mac with : 38 minutes of Bicycling 22 minutes of Cross Country Skiing 18 minutes of Running 30 minutes of Swimming 50 minutes of Walking More Activities Comments This is a little less than half of McDonald 's ® Big Mac .
+68. From “Fast Food Fix”. Save: 174 calories, 19 g fat, 7 g sat. fat. Φ Next Page. PAGE 1 www.devinalexander.com. Devin Alexander. McDonald's: Big Mac.
+--->
+69. Sep 13, 2012 ... McDonald's said it will be begin listing calorie information on its ... Torn between a Big Mac and a Double Quarter Pounder with Cheese?
+--->
+->Sep 13 , 2012
+->McDonald 's said it will be begin listing calorie information on its
+->Torn between a Big Mac and a Double Quarter Pounder with Cheese ?
+70. Jun 14, 2012 ... Let's talk about the one of the Big Mac's biggest offenses: fat. A Big Mac is by no means a stranger to it. Each serving packs 550 calories, 
+--->
+->Jun 14 , 2012
+->Let 's talk about the one of the Big Mac 's biggest offenses : fat .
+=>The Fat Facts Let 's talk about the one of the Big Mac 's biggest offenses : fat .
+->A Big Mac is by no means a stranger to it .
+=>A Big Mac is by no means a stranger to it .
+->Each serving packs 550 calories ,
+=>Each serving packs 550 calories , 260 calories of which come from fat .
+71. Jun 28, 2004 ... The largest Java Chip Frappuccino weighs in at 650 calories - 50 calories more than a Big Mac - and contains 25 grams of fat, compared w
+--->
+->Jun 28 , 2004
+=>That Grande Mocha Frappuccino Can Add Up The Calories | News Archive | Seattle News , Weather , Sports , Breaking News | KOMO NewsThat Grande Mocha Frappuccino Can Add Up The Calories | News Archive | Seattle News , Weather , Sports , Breaking News | KOMO News Skip to primary navigation Skip to main content KOMO News Network : KOMOnews.com KOMO 4 TV KOMO Newsradio Univision Seattle KOMO News Tues Mostly Sunny H : 82 ° L : 58 ° Wed Sunny H : 86 ° L : 59 ° Thurs Sunny H : 88 ° L : 60 ° Search News Local Nation & World Business Tech Entertainment Healthworks Consumer Problem Solvers Offbeat Weather Scott 's Weather Blog Radar Satellite School Delays Forecast Maps FAQ Cameras Links Ski Report Weather Kids Traffic Cameras What 's Driving You Crazy Pass Reports Flight Status Sports Mariners Seahawks Sounders Storm Huskies College Little Heroes Healthworks Seattle Refined KOMO 4 TV What 's On TV People Contact Advertise Contests & Events Community Involvement Hotlinks Tami Michaels EQC Puzzle of the Night KOMO Newsradio Listen Shows Contests Events People Advertise Advertiser Directory KOMO Newsradio Club Hotlinks Contact That Grande Mocha Frappuccino Can Add Up The Calories Published : Jun 28 , 2004 at 3:05 PM PDT Last Updated : Jul 24 , 2009 at 11:39 AM PDT Share this story print email '' Play Video SEATTLE - Gary Lass did n't think twice before ordering his usual Starbucks grande mocha Frappuccino on a recent sunny afternoon .
+->The largest Java Chip Frappuccino weighs in at 650 calories - 50 calories more than a Big Mac - and contains 25 grams of fat , compared w
+=>The largest Java Chip Frappuccino weighs in at 650 calories - 50 calories more than a Big Mac - and contains 25 grams of fat , compared with 33 grams for the Big Mac .
+72. Sep 27, 2010 ... So a double big mac has 700 calories. Great meal for ectomorphs who are skin and bones and struggling. Im not even full after. Drink two c
+--->
+->Sep 27 , 2010
+->So a double big mac has 700 calories .
+->Great meal for ectomorphs who are skin and bones and struggling .
+=>• 1-866-236-8417 Get Discounts & Deals Get Discounts Free Gift with Orders Over $ 75 Free Gift with Orders $ 75 + Store Training Articles & Videos Community Store Home Top 50 & Product Lists Sales & Specials Categories Brands Ingredients Goals Find A Supplement Plan Help & Order Status Next Level Challenge Training Home Find A Plan Training Accessories Training Supplementation Workouts Exercises Nutrition Tools and Trackers Transform For Life Articles & Videos Home Workouts Find A Plan Nutrition Supplementation Motivation Build Muscle Lose Fat For Women Contest Coverage More Articles & Videos Community Home Forum Photo Gallery FitBoard Reviews Member Search FAQ Community BodySpace BodyGroups Pictures & Albums Members List BodyBlogs Forum Actions Mark Forums Read Quick Links View Forum Leaders Who 's Online Advanced Forum '' Specifically For You '' Teen Bodybuilding '' So a double big mac has 700 calories Page 1 of 3 1 2 3 Last Jump to page : Results 1 to 30 of 73 Thread : So a double big mac has 700 calories Thread Tools Show Printable Version Email this Page ... Subscribe to this Thread ... 09-27-2010 , 02:50 PM # 1 blingbling111 View Profile View Forum Posts Registered User Join Date : Oct 2009 Age : 23 Stats : 5 ' 9 '' Posts : 148 Rep Power : 73 So a double big mac has 700 calories Great meal for ectomorphs who are skin and bones and struggling .
+->Im not even full after .
+=>Im not even full after .
+->Drink two c
+=>Drink two cups of whole milk after and you have almost 1000 calories .
+73. Jul 29, 2013 ... For example, in the United States, your typical Big Mac has 550 calories, 25 grams of protein, 29 grams of fat, 46 carbohydrates, and 
+--->
+->Jul 29 , 2013
+->For example , in the United States , your typical Big Mac has 550 calories , 25 grams of protein , 29 grams of fat , 46 carbohydrates , and
+=>For example , in the United States , your typical Big Mac has 550 calories , 25 grams of protein , 29 grams of fat , 46 carbohydrates , and 970 milligrams of sodium .
+74. Apr 13, 2015 ... Menu. Skip to content. Home · Request an unhealthy review! Contact Us. Starbucks white hot chocolate more calories than a big 
+--->
+->Apr 13 , 2015
+->Menu .
+->Skip to content .
+->Home · Request an unhealthy review !
+->Contact Us .
+->Starbucks white hot chocolate more calories than a big
+75. Sushi can have more calories than a Big Mac & fries. It's been revealed that the Japanese food that's well known for its diverse combination of raw fish with r
+--->
+76. Jun 26, 2015 ... If you already know how many calories are in a Big Mac as well as in other McDonald's foods, you should know how to configure th
+--->
+->Jun 26 , 2015
+->If you already know how many calories are in a Big Mac as well as in other McDonald 's foods , you should know how to configure th
+=>If you already know how many calories are in a Big Mac as well as in other McDonald 's foods , you should know how to configure their consumption so that you can still enjoy them but you do n't have to suffer from their bad effects .
+77. Big Mac® ... Nutrition View Nutrition Information; Allergen View Allergen Information; Ingredients View Ingredients. Updated: 10/12/2
+--->
+->Big Mac ®
+=>Big Mac | McDonald 's New ZealandBig Mac | McDonald 's New Zealand eat Promotions Serious Burgers Sweet Deals Frozen Coke Our Food Your Questions Create Your Taste Menu Full Menu Breakfast Burgers Beef Chicken & Fish Salads & Wraps Sides Drinks Desserts Happy Meal ® Loose Change Menu ® Macca 's ® ShareBox ™ Cheesy Deals New Products McCafé ® Menu Coffee Baked Fresh Sweet Rainforest Alliance Georgie Pie ® Celebrate Birthday Parties learn Careers Restaurant Jobs Franchise Opportunities Discover the Food What 's in it Nutrition Love Free Range Eggs About Macca 's ® Find a Restaurant Contact Macca 's Story Macca 's Team FAQs Students & Teachers Responsibility Macca 's in the Community Macca 's & the Environment Macca 's People Quality & Sustainability Discover RMHC Corporate Responsibility News Free WiFi Media play Families Happy Meal Activities Celebrate Birthday Parties Games eat Promotions Serious Burgers Sweet Deals Frozen Coke Our Food Your Questions Create Your Taste Menu Full Menu Breakfast Burgers Beef Chicken & Fish Salads & Wraps Sides Drinks Desserts Happy Meal ® Loose Change Menu ® Macca 's ® ShareBox ™ Cheesy Deals New Products McCafé ® Menu Coffee Baked Fresh Sweet Rainforest Alliance Georgie Pie ® Celebrate Birthday Parties learn Careers Restaurant Jobs Franchise Opportunities Discover the Food What 's in it Nutrition Love Free Range Eggs About Macca 's ® Find a Restaurant Contact Macca 's Story Macca 's Team FAQs Students & Teachers Responsibility Macca 's in the Community Macca 's & the Environment Macca 's People Quality & Sustainability Discover RMHC Corporate Responsibility News Free WiFi Media play Families Happy Meal Activities Celebrate Birthday Parties Games Full Menu Big Mac ® Take two 100 % beef patties sourced from farmers in regions such as the King Country and Canterbury .
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+->Nutrition View Nutrition Information ; Allergen View Allergen Information ; Ingredients View Ingredients .
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+->Updated : 10/12/2
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable: � (U+FFFD, decimal: 65533)
+=>Tweet Nutrition View Nutrition Information Allergen View Allergen Information Ingredients View Ingredients Updated : 10/12/2014 Average Quantity Per Serve Average Quantity Per 100 grams Energy (kJ) 2070 1020 Energy (Cal) 494 245 Protein (g) 26.4 13.1 Fat , total (g) 25.9 12.8 Saturated (g) 9.9 4.9 Carbohydrate (g) 36.8 18.2 Sugars (g) 5.6 2.8 Sodium (mg) 966 478 Key : Y (Yes) T (Traces) Updated : 10/12/2014 Gluten Egg Milk Soy Fish & Crustaceans Peanuts Nuts Sesame Seeds Sulphites Preservatives Flavours Colours Y Y Y Y Y Y Y Y Gluten Y Egg Y Milk Y Soy Y Fish & Crustaceans Peanuts Nuts Sesame Seeds Y Sulphites Preservatives Y Flavours Y Colours Y Please be aware that there is always a risk that traces of allergens may be transferred to items on our menu during processing , storage or preparation in our kitchens .
+78. Garrick Saito's answer is correct, but note that this may vary depending on the country you're in. For instance, McDonald's France says it's 495 calories
+--->
+79. How Many Calories in Big Mac (Without Big Mac Sauce, McDonald's), 1 item. Big Mac (Without Big Mac Sauce, McDonald's) Verif
+--->
+80. Jul 8, 1986 ... The company will provide 100 booklets, covering everything from its 100% beef burgers to Big Mac sauce with 126 calories, to each of the m
+--->
+->Jul 8 , 1986
+->The company will provide 100 booklets , covering everything from its 100 % beef burgers to Big Mac sauce with 126 calories , to each of the m
+=>The company will provide 100 booklets , covering everything from its 100 % beef burgers to Big Mac sauce with 126 calories , to each of the more than 7,500 McDonald 's restaurants nationwide for distribution starting Aug. 15 .
+81. Dec 21, 2014 ... This means the end of the Big Mac, apple pie and large size menu items. Currently, the Big Mac has a whopping 550 calories and 29g of fat.
+--->
+->Dec 21 , 2014
+->This means the end of the Big Mac , apple pie and large size menu items .
+=>This means the end of the Big Mac , apple pie and large size menu items .
+->Currently , the Big Mac has a whopping 550 calories and 29g of fat .
+=>Currently , the Big Mac has a whopping 550 calories and 29g of fat .
+82. Jun 20, 2015 ... A Big Mac hamburger from McDonald's contains 540 Calories. (a) How many kilojoules does a Big Mac contain? (b) For how many hours co
+--->
+->Jun 20 , 2015
+=>3 Gió Edit answer Jun 20 , 2015 Fix grammar , add examples , etc. .
+->A Big Mac hamburger from McDonald 's contains 540 Calories .
+=>A Big Mac hamburger from McDonald 's contains 540 Calories .
+->(a) How many kilojoules does a Big Mac contain ?
+=>(a) How many kilojoules does a Big Mac contain ?
+->(b) For how many hours co
+=>(b) For how many hours could the amount of energy in a Big Mac light a 100 watt light - bulb ?
+83. Not only are you cutting out some unnecessary calories from the third slice of bread and second slice of cheese in a 550 Calorie Big Mac; you are also cutti
+--->
+84. Jan 12, 2006 ... How many calories does the average Big Mac from McDonalds restaurants have - trivia question /questions answer / answers.
+--->
+->Jan 12 , 2006
+->How many calories does the average Big Mac from McDonalds restaurants have - trivia question / questions answer / answers .
+85. Jul 20, 2015 ... Have you just eaten a big mac and now you are feeling guilty or just wondering how many calories you have consumed. Well according
+--->
+->Jul 20 , 2015
+->Have you just eaten a big mac and now you are feeling guilty or just wondering how many calories you have consumed .
+=>July 20 , 2015July 21 , 2015 howmany Have you just eaten a big mac and now you are feeling guilty or just wondering how many calories you have consumed .
+->Well according
+=>Well according to McDonalds , a Big Mac has : Is a big mac also big in calories One Big Mac = 576 Calories calories foods howmany Leave a Reply Cancel reply Your email address will not be published .
+86. Bacon McDouble® sandwich. 157g 420. 21. 32. 9. 0.5. 48. 70 1050. 44. 34. 11. 2. 8. 7. 24. 6. 8. 15. 25. Big Mac® sandwich. 209g 530. 29. 45. 10. 0.5. 53. 70 970.
+--->
+87. Check out these 500 calorie foods to get you started. ... The Big Mac is actually 550 calories, but if you leave a bite or two, you'll be able to slide under the bar.
+--->
+->Check out these 500 calorie foods to get you started .
+->The Big Mac is actually 550 calories , but if you leave a bite or two , you 'll be able to slide under the bar .
+88. Mar 11, 2013 ... Still, if you do manage to use your mouse energetically enough, at a rate of 1.4 calories a click you can burn off a Big Mac in 350,000 presses.
+--->
+->Mar 11 , 2013
+->Still , if you do manage to use your mouse energetically enough , at a rate of 1.4 calories a click you can burn off a Big Mac in 350,000 presses .
+=>Still , if you do manage to use your mouse energetically enough , at a rate of 1.4 calories a click you can burn off a Big Mac in 350,000 presses .
+89. Sep 13, 2012 ... McDonald's Corp. will begin posting calorie counts on all its menus next week, the New York Times reported.
+--->
+->Sep 13 , 2012
+=>McDonald 's to post calorie data on menus Sep 13 , 2012 , 7:43 am EDT Industries & Tags Retailing & Restaurants , Food Share Order Reprints Save Article Print Share Email Twitter LinkedIn Facebook Google + Order Reprints Save Article McDonald 's Corp. will begin posting calorie counts on all its menus next week , the New York Times reported .
+->McDonald 's Corp. will begin posting calorie counts on all its menus next week , the New York Times reported .
+=>McDonald 's to post calorie data on menus Sep 13 , 2012 , 7:43 am EDT Industries & Tags Retailing & Restaurants , Food Share Order Reprints Save Article Print Share Email Twitter LinkedIn Facebook Google + Order Reprints Save Article McDonald 's Corp. will begin posting calorie counts on all its menus next week , the New York Times reported .
+90. Mcdonald's Calories and Macronutrients ... Click to see other units, Calories, Carb ... McDONALD'S, BIG MAC (without Big Mac Sauce), 1 item, 469, 42.1, 25
+--->
+->Mcdonald 's Calories and Macronutrients
+=>More Food Groups Fruit Breakfast Cereals Grains & Pasta Vegetables Fast Food Baked Foods Mcdonald 's Calories and Macronutrients Serving Click to see other units Calories Carb (g) Protein (g) Total Fat (g) Sat .
+->Click to see other units , Calories , Carb
+->McDONALD 'S , BIG MAC (without Big Mac Sauce) , 1 item , 469 , 42.1 , 25
+91. Mar 17, 2015 ... Find McDonald%27s Big Mac- Calories, Fiber, Fat, Carbs, Points Calories and Nutrition Facts at PeerTrainer.com.
+--->
+->Mar 17 , 2015
+->Find McDonald % 27s Big Mac - Calories , Fiber , Fat , Carbs , Points Calories and Nutrition Facts at PeerTrainer.com .
+92. Aug 1, 2014 ... Watch out – these 10 supposedly healthy lunches pack more calories than a Big Mac. Siam Goorwich for Metro.co.ukFriday 1 Aug 2014 10
+--->
+->Aug 1 , 2014
+->Watch out -- these 10 supposedly healthy lunches pack more calories than a Big Mac .
+->Siam Goorwich for Metro.co.ukFriday 1 Aug 2014 10
+=>Learn more News ... but not as you know it 53.9 m shares Menu Home News UK World Weird Tech Sport Football Oddballs Club Metro Transfer news Viral videos Entertainment Showbiz TV Film Music Gaming Big Brother 2015 One Direction Lifestyle Sex Fashion Food Travel More Blogs Competitions Jobs Property Search Metro Follow us Watch out -- these 10 supposedly healthy lunches pack more calories than a Big Mac Siam Goorwich for Metro.co.ukFriday 1 Aug 2014 10:57 am (Picture : McDonald 's) When was the last time you had a Big Mac ?
+93. How long will it take to burn 468 calories and lose weight. To lose weight, you need to burn more calories t
+--->
+94. Mar 18, 2013 ... NYC map shows walking distances for burning calories .... can burn off the calories in one Big Mac with 350,000 clicks of a computer mouse.
+--->
+->Mar 18 , 2013
+->NYC map shows walking distances for burning calories
+->can burn off the calories in one Big Mac with 350,000 clicks of a computer mouse .
+=>In the meantime those curious about physical activity equivalents of the food they eat can chew on this : the recent publication Convert Anything to Calories reportedly states that you can burn off the calories in one Big Mac with 350,000 clicks of a computer mouse .
+95. Apr 29, 2013 ... The following salads will be compared to McDonalds' Big Mac. One of these burgers contains 550 calories, 29g of fat, and 970mg of sodium.
+--->
+->Apr 29 , 2013
+->The following salads will be compared to McDonalds ' Big Mac .
+=>Our Benchmark : The Big Mac The following salads will be compared to McDonalds ' Big Mac .
+->One of these burgers contains 550 calories , 29g of fat , and 970mg of sodium .
+=>One of these burgers contains 550 calories , 29g of fat , and 970mg of sodium .
+96. The famous McDonald's Big Mac. “Two all beef patties, special sauce, lettuce, cheese, pickles, and onions on a sesame seed bun” proclaims the advertiseme
+--->
+97. How many calories are in Big Mac - - McDonald's. See nutrition information and calorie breakdown by fat, carbs and protein.
+--->
+98. Calories in Big Mac Extra Value Meal with Medium Fries and Diet Coke - Nutrition Facts for Big Mac Extra Value Meal with Medium Fries and Diet C
+--->
+99. Aug 6, 2013 ... Big Macs around the world come in very different shapes and sizes. ... we considered their price, typical ingredients, and nutritional information.
+--->
+->Aug 6 , 2013
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable:  (U+E007, decimal: 57351)
+->Big Macs around the world come in very different shapes and sizes .
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable:  (U+E007, decimal: 57351)
+=>The World 's Top 10 Coolest McDonald 's Just as their price varies , our research concluded that , in fact , Big Macs around the world come in very different shapes and sizes .
+->we considered their price , typical ingredients , and nutritional information .
+Jul 28, 2015 5:23:44 PM edu.stanford.nlp.process.PTBLexer next
+WARNING: Untokenizable:  (U+E007, decimal: 57351)
+=>To get a better idea of how these burgers size up when compared against one another , we considered their price , typical ingredients , and nutritional information .
+BUILD SUCCESSFUL (total time: 1 minute 33 seconds)
