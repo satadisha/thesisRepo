@@ -16,6 +16,7 @@ import edu.stanford.nlp.process.PTBTokenizer;
 import edu.stanford.nlp.util.CoreMap;
 import java.io.StringReader;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
 import java.util.StringTokenizer;
@@ -30,6 +31,7 @@ public class OtherSentences {
     // creates a StanfordCoreNLP object, with POS tagging, lemmatization
     public Properties props;
     StanfordCoreNLP pipeline;
+    public ArrayList objMatrix= new ArrayList<ArrayList<SimIndex>>();
     
     public String lemmaPostProcess(String stringIn){
       if(stringIn.contains(("-lrb-")))
@@ -76,7 +78,11 @@ public class OtherSentences {
             }
             return tokens;
     }
+    //removes stop word and lemmatizes
     public List<String> lemmatize(List<CoreMap> sentences){
+        List<String> stopwordsLucene= new ArrayList<String>(Arrays.asList("a", "an", "and", "are", "as", "at", "be", "but", "by","for", "if", "in", "into", "is", "it",
+                           "no", "not", "of", "on", "or", "such","that", "the", "their", "then", "there", "these","they", 
+                            "this", "to", "was", "will", "with"));
         List<String> lemmas = new ArrayList<>();
             // Iterate over all of the sentences found 
             for(CoreMap sentence: sentences) {
@@ -85,17 +91,105 @@ public class OtherSentences {
                     // Retrieve and add the lemma for each word into the list of lemmas
                     String lemma=token.get(LemmaAnnotation.class);
                     lemma=lemmaPostProcess(lemma);
-                    Pattern p = Pattern.compile("[a-z0-9 ]", Pattern.CASE_INSENSITIVE);
-                    Matcher m = p.matcher(lemma);
-                    if (m.find()){
-                        lemmas.add(lemma);
-                    }
-                         
+                    if(!(stopwordsLucene.contains(lemma))){
+                      Pattern p = Pattern.compile("[a-z0-9 ]", Pattern.CASE_INSENSITIVE);
+                        Matcher m = p.matcher(lemma);
+                        if (m.find()){
+                            lemmas.add(lemma);
+                        }  
+                    }                                             
                 }
             }
             return lemmas;
     }
-    public void getSimilar(String compare, String compareWith){
+    
+    public void createObjMatrix(double[][] matrix){
+            int row= matrix.length;
+            int col= matrix[0].length;
+            
+          // System.out.println("matrix.length:"+matrix.length);
+          // System.out.println("matrix[0].length:"+matrix[0].length);
+            ArrayList<SimIndex> rowArray=null;
+            for(int i=0;i<row;i++){
+                rowArray=new ArrayList<SimIndex>();
+                
+                int maxIndex=0;
+                double maxValue=0.0;
+                for(int j=0;j<col;j++){
+                    double value= matrix[i][j];
+                    if(maxValue<value){maxValue=value;maxIndex=j;}
+                    SimIndex simIndex = new SimIndex();
+                    simIndex.matchValue=value;
+                    simIndex.selected=false;
+                    rowArray.add(simIndex);
+                }
+                rowArray.get(maxIndex).selected=true;
+                objMatrix.add(rowArray);
+               //((SimIndex)(((ArrayList)objMatrix.get(i)).get(maxIndex))).selected=true; 
+            }
+            
+        }
+    public int resolveColumnCollision(int rowIndex, int colIndex){
+        int row= objMatrix.size();
+        int col= ((ArrayList)objMatrix.get(0)).size();
+        boolean hasCollision=false;
+        double indexValue=((SimIndex)(((ArrayList)objMatrix.get(rowIndex)).get(colIndex))).matchValue;
+        for(int i=0;i<row;i++){
+            if(i!=rowIndex){
+                    double currentValue=((SimIndex)(((ArrayList)objMatrix.get(i)).get(colIndex))).matchValue;
+                    boolean currentselected=((SimIndex)(((ArrayList)objMatrix.get(i)).get(colIndex))).selected;
+                    if(indexValue<currentValue && currentselected==true){
+                    ((SimIndex)(((ArrayList)objMatrix.get(rowIndex)).get(colIndex))).matchValue=-1.0;
+                    ((SimIndex)(((ArrayList)objMatrix.get(rowIndex)).get(colIndex))).selected=false;
+                    hasCollision=true;
+                    break;
+                    }  
+            }
+            
+        }
+        //fixing the row now.
+        if(hasCollision){
+            double maxValue=0.0;
+            int maxIndex=0;     
+                for(int i=0;i<col;i++){
+                  double currentValue=((SimIndex)(((ArrayList)objMatrix.get(rowIndex)).get(i))).matchValue;  
+                  if(currentValue>=maxValue)
+                  {
+                   maxValue=currentValue;
+                   maxIndex=i;
+                  }
+                }
+               ((SimIndex)(((ArrayList)objMatrix.get(rowIndex)).get(maxIndex))).selected=true; 
+               //newMaxCol=maxIndex;
+               //System.out.println();
+               return resolveColumnCollision(rowIndex,maxIndex);
+        }
+       return colIndex; 
+    }
+    
+     public double getScore(){
+         
+         
+         double score=0.0;
+            int row= objMatrix.size();
+            int col= ((ArrayList)objMatrix.get(0)).size();
+            System.out.println("=>"+row+"  "+col);
+            
+            for(int i=0;i<row;i++){ 
+                for(int j=0;j<col;j++){
+                  if(((SimIndex)(((ArrayList)objMatrix.get(i)).get(j))).selected==true){
+                      //if(ColumnHasColllision(row, col))
+                      int maxCol=resolveColumnCollision(i, j);
+                      score+=((SimIndex)(((ArrayList)objMatrix.get(i)).get(maxCol))).matchValue;
+                      
+                  } 
+                }
+            }
+            score=score/(row*(col-row+1));   
+            return score;
+        }
+    
+    public double getSimilar(String compare, String compareWith){
     SemanticSim similarity = new SemanticSim();
     
  // for the first sentence
@@ -126,6 +220,12 @@ public class OtherSentences {
     System.out.println();
     
     //calling buildMatrix for a print
-    similarity.printMatrix(similarity.buildMatrix(lemma1, lemma2));  
+    double[][] matrix=similarity.buildMatrix(lemma1, lemma2);
+    
+    similarity.printMatrix(matrix);
+    createObjMatrix(matrix);
+    double score= getScore();
+    //System.out.println(score);
+    return score;
     }
 }

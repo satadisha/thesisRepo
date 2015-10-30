@@ -253,12 +253,49 @@ public class Crawl {
                     
             }
         */
+                
+//---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                
+                
      //-----------------Snippets and and original sentences computed. Now moving on to forming the text base------------------------
         //String compare= "There are 549 calories in 1 burger (7.6 oz) of McDonald's Big Mac Burger.";
-        String compare= "The text that tells you the name of an item -- say , a Big Mac -- is about double the size of that telling you the number of calories (in this case , 550) .";
-        String compareWith= "`` Two all beef patties , special sauce , lettuce , cheese , pickles , and onions on a sesame seed bun '' proclaims the advertisements , but what the advertisements do n't proclaim is how many calories are in a Big Mac .\n" +
-"";
-        OtherSentences others=new OtherSentences();
-        others.getSimilar(compare, compareWith);
+       // String original= "Beatles sang Lucy in the sky with diamonds .";
+        String other="That night Lennon sat with Paul , George and Ringo and had a lot of weed ." ;
+        List <String> originalSentenceArray=new ArrayList<String>();
+        List <String> otherSentenceArray=new ArrayList<String>();
+        FileReader fr=new FileReader("input.txt");
+                      DocumentPreprocessor filedp = new DocumentPreprocessor(fr);
+                      List<String> sentenceList = new ArrayList<String>();
+                      for (List<HasWord> sentenceFile : filedp) {
+                         String sentenceFileString = Sentence.listToString(sentenceFile);
+                         sentenceList.add(sentenceFileString.toString());
+                      }
+                      boolean flagDivider=false;
+                      for (String sentence : sentenceList) {
+                          if(!flagDivider && sentence.equals("=== .")) {
+                              flagDivider=true;
+                              continue;
+                          }
+                      if(flagDivider){
+                         otherSentenceArray.add(sentence); 
+                      }else{
+                        originalSentenceArray.add(sentence);  
+                      }
+                      }
+                      
+                      for(String originalSentence: originalSentenceArray){
+                          for(String otherSentence: otherSentenceArray){
+                              System.out.println(originalSentence);
+                              System.out.println(otherSentence);
+                              OtherSentences others=new OtherSentences();
+                              System.out.println("Similarity Score: "+others.getSimilar(originalSentence, otherSentence));
+                              System.out.println("------------------------------------------------------------------------------------");
+                        }
+                      }
+        
+   
+                
+        
+      //System.out.println("Similarity Score: "+others.getSimilar(original, other));   
+        
     }
 }
